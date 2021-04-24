@@ -1,0 +1,13 @@
+.subBtn {
+  color: white;
+  background-color: blue;
+  border-radius: 6px;
+  width: 200px;
+  font-weight: 500;
+}
+
+.delBtn {
+  color: white;
+  background-color: red;
+  border-radius: 6px;
+}
